@@ -21,11 +21,12 @@ Each day includes:
 ---
 
 ## 📂 Folder Structure
+```
 SQL/
 ├── Day01.md
 ├── Day02.md
 └── practice_queries.sql
-
+```
 ---
 
 ## 🛠️ Practice Method
