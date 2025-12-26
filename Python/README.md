@@ -18,11 +18,12 @@ Learning progresses from **core Python concepts to data analysis workflows**.
 ---
 
 ## 📂 Folder Structure
+```
 Python/
 ├── Day01.md
 ├── Day02.ipynb
 └── Practice_Notes.md
-
+```
 ---
 
 ## 🛠️ Practice Method
