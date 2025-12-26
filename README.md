@@ -43,6 +43,7 @@ Each day, I focus on **one subject**, apply the concepts hands-on, and update th
 
 ## 📂 Repository Structure
 
+```
 Daily_Learning_Journal/
 │
 ├── SQL/
@@ -58,7 +59,7 @@ Daily_Learning_Journal/
 │ └── Dashboard_Screenshots/
 │
 └── README.md
-
+```
 ---
 
 ## 📅 Daily Learning Method
